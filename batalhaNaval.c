@@ -2,7 +2,7 @@
 
 int main()
 {
-    char linha[10] ={'A', 'B','C', 'D', 'F', 'G', 'H', 'I', 'J', 'K'};
+    char linha[10] ={'A', 'B','C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
     int tabuleiro[10][10] = {0};
 
     printf("TABULEIRO BATALHA NAVAL\n");
